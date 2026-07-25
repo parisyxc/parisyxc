@@ -4,7 +4,7 @@
 
 Most marketing work is heavy by accident — weeks of research, coordination and production wrapped around a handful of real decisions. I package that weight into tools: you give a short brief, the tool runs the whole pipeline, you get the deliverable. No workshops, no discovery phase.
 
-Everything here is open. Load any of these into Claude and run it yourself.
+Everything here is open. Load any of these into Claude, GPT, KIMI and run it yourself.
 
 ## Tools
 
