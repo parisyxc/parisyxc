@@ -1,4 +1,4 @@
-# Paris Young
+# Hi, I am Paris Young
 
 **I turn heavy marketing work into light, self-driven agent tools.**
 
