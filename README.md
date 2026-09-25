@@ -13,6 +13,7 @@ Everything here is open. Load any of these into Claude, GPT, KIMI and run it you
 | **[geo-content-planner](https://github.com/parisyxc/geo-content-planner)** | Get recommended by AI search. Turns social output into AI-citable evidence assets — query map, answer units, platform distribution. |
 | **[cultural-brand-analyzer](https://github.com/parisyxc/cultural-brand-analyzer)** | Reads a brand's cultural meaning, not its tactics. Archetype, tension, ideological vacuum, myth — grounded in Douglas Holt's Cultural Innovation Theory. |
 | **[product-video-studio](https://github.com/parisyxc/product-video-studio)** | Turns one product capability into shootable short-video ad creative — usage scenarios → cultural tension → script → storyboard prompts. |
+| **[audience-lens-selector](https://github.com/parisyxc/audience-lens-selector)** | Decides how to look at an audience before you research it. Picks the one segmentation lens that changes the decision, rejects the obvious cut, and hands off falsifiable hypotheses — no invented personas. |
 
 Each ships with a worked demo you can read in a minute, and templates you can fill in.
 
