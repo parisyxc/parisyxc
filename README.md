@@ -78,31 +78,6 @@ Each study starts with material I provide and something I want to understand. He
 
 Across these studies, the useful output is a clearer next question for my own project, supported by a readable case, linked notes and an HTML report.
 
-<details>
-<summary><strong>See three actual research cards</strong></summary>
-
-The cards below are in Chinese.
-
-### CharCharms: learning from a specific content example
-
-From the follow-up growth study, connected to my concert-accessory question above.
-
-![CharCharms growth study excerpt showing participant choices, the finished result and an adaptation lesson](assets/brand-research-brain/charcharms-growth.jpg)
-
-### Doodle2Life: turning a case into a small test
-
-The two-offer comparison developed from studying the drawing-to-keepsake journey.
-
-![Doodle2Life idea card comparing a paint-it-yourself keepsake with a finished gift](assets/brand-research-brain/doodle2life-ideas.jpg)
-
-### Kaleidos: understanding the category and product first
-
-Product observations behind the aesthetic-to-supplier questions above.
-
-![Kaleidos category study connecting colors, finishes, interchangeable components and aesthetic expression](assets/brand-research-brain/kaleidos-category.jpg)
-
-</details>
-
 ### Install Brand Research Brain
 
 The first release targets **Codex and Claude Code** with file access, Python 3.9+ and host-provided browsing tools. Basic research requires no additional paid data API; your existing agent and search usage still applies.

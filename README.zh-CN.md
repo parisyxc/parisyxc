@@ -78,29 +78,6 @@ Brand Research Brain 把这件事变成一个可以持续进行的流程：
 
 这三次研究留下的，是更清楚的下一步问题，以及可继续查阅和讨论的案例、关联笔记与 HTML 学习文档。
 
-<details>
-<summary><strong>展开看三张实际研究卡片</strong></summary>
-
-### CharCharms 从具体视频中学习内容结构
-
-来自后续增长研究，连接上面由我提出的演唱会配件问题。
-
-![CharCharms 增长研究节选，展示人物选择、成品与可以借鉴的内容方法](assets/brand-research-brain/charcharms-growth.jpg)
-
-### Doodle2Life 从案例走向一个小验证
-
-从“原画到纪念物”的交付过程，发展出两种商品方案的比较问题。
-
-![Doodle2Life 灵感与下一步，比较自己上色和完成品送礼两种交付](assets/brand-research-brain/doodle2life-ideas.jpg)
-
-### Kaleidos 先理解本案的品类与产品亮点
-
-先保留具体产品观察，再把审美转成可以询问供应商的问题。
-
-![Kaleidos 品类学习，分析颜色、质地、可更换部件与审美表达](assets/brand-research-brain/kaleidos-category.jpg)
-
-</details>
-
 ### 安装 Brand Research Brain
 
 首版推荐在 **Codex 或 Claude Code** 中使用。完整流程需要本地文件读写、Python 3.9+，以及宿主提供的网页读取能力。基础研究无需额外连接付费数据 API，仍会使用现有 Agent 与搜索额度。
