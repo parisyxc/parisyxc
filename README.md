@@ -50,13 +50,33 @@ Useful Shopify storefront and conversion practices are saved alongside those not
 
 ### Three examples from my research
 
-| Case | What I studied | The question it opened up |
-| --- | --- | --- |
-| **CharCharms** | Water-bottle accessories that combine small utilities and self-expression; content built around a person's choices and the finished result. | Could a concert accessory let the user participate in the design while making the transformation worth watching? |
-| **Doodle2Life** | Children's drawings turned into paintable keepsakes, with professional production followed by a family activity. | Does the buyer want something to finish together, or a finished gift ready to give? |
-| **Kaleidos** | Distinctive color cosmetics, aesthetic consistency and interchangeable product components. | How can aesthetic preferences become concrete color, material and structure requirements for a supplier? |
+Each study starts with material I provide and something I want to understand. Here are three research briefs, summarized from the work, and what came back.
 
-These are studies of public brands: observations, interpretations and questions for further validation. My own product direction is still developing.
+#### 1. CharCharms: learning from water-bottle accessories for my own concert idea
+
+**My input:** the [CharCharms website](https://charcharms.com/) and my own early idea for concert self-expression accessories, such as wearable sparkle or interchangeable decorations. My question was: what can I learn from the way this brand gives an everyday object a new role?
+
+**What the Brain explored:** first, the brand's actual category—water-bottle accessories—and how it combines small utilities, styling and replaceable parts. A later growth study added specific videos showing people choosing accessories and revealing the finished result.
+
+**What I took away:** explore where people already carry or display something, then compare ways to add expression and let them choose. **The concert direction came from my brief.** It remains a product hypothesis for me to test.
+
+#### 2. Doodle2Life: understanding a custom-product buying experience
+
+**My input:** a [website that turns children's drawings into 3D keepsakes](https://doodle2life.com/custom-3d-figurine-from-kids-drawing/). The research focus was how the offer works and what I could borrow for a customizable product.
+
+**What the Brain explored:** the journey from an uploaded drawing to professional modeling and printing, then a blank figure the family can paint. It separated the production work from the activity left to the buyer.
+
+**What I took away:** compare two concept offers using the same drawing: “finish it together” and “ready to give as a gift.” That gives me a concrete buyer question to investigate before choosing the production format.
+
+#### 3. Kaleidos: connecting Chinese supply capabilities with a distinctive brand
+
+**My input:** a [Kaleidos brand article](https://pangjing.cn/6114249/), supplemented by its [product website](https://kaleidos.com/products/stranger). The research focus was how distinctive aesthetics become product choices in an overseas-facing brand.
+
+**What the Brain explored:** specific colors and finishes, consistent visual language, and the choice of interchangeable inner products and outer cases.
+
+**What I took away:** turn an aesthetic preference into questions about color, material, finish and structure that a supplier can answer. Supplier feasibility and customer willingness to buy still need their own evidence.
+
+Across these studies, the useful output is a clearer next question for my own project, supported by a readable case, linked notes and an HTML report.
 
 <details>
 <summary><strong>See three actual research cards</strong></summary>
@@ -65,13 +85,19 @@ The cards below are in Chinese.
 
 ### CharCharms: learning from a specific content example
 
+From the follow-up growth study, connected to my concert-accessory question above.
+
 ![CharCharms growth study excerpt showing participant choices, the finished result and an adaptation lesson](assets/brand-research-brain/charcharms-growth.jpg)
 
 ### Doodle2Life: turning a case into a small test
 
+The two-offer comparison developed from studying the drawing-to-keepsake journey.
+
 ![Doodle2Life idea card comparing a paint-it-yourself keepsake with a finished gift](assets/brand-research-brain/doodle2life-ideas.jpg)
 
 ### Kaleidos: understanding the category and product first
+
+Product observations behind the aesthetic-to-supplier questions above.
 
 ![Kaleidos category study connecting colors, finishes, interchangeable components and aesthetic expression](assets/brand-research-brain/kaleidos-category.jpg)
 
